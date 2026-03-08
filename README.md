@@ -36,4 +36,4 @@ Add your `GEMINI_API_KEY` in `backend/.env`.
 
 ## Built by
 
-Manvi — AI Engineer | BIT Mesra '29
+Manvi 
